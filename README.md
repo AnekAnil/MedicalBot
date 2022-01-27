@@ -10,6 +10,8 @@ Project Description: Chatbots can be transformational and revolutionary in the f
 
 Primary Azure Technology: Azure Bot Service, Azure Cognitive Search, QnA Maker
 
+![AZURE SERVICES USED](https://user-images.githubusercontent.com/64838666/151353592-841a2d51-e170-40f7-bf9a-ce29ea5fbd3f.JPG)
+
 
 Using the QnA maker, A Knowledge base is created with Similar Queries found on the internet. A sample question in the knowledge base is shown in the screenshot below
 
