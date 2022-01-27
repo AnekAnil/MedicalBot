@@ -14,6 +14,7 @@ A detailed list of Azure Technologies have been listed below, In the following s
 
 ![AZURE SERVICES USED](https://user-images.githubusercontent.com/64838666/151353592-841a2d51-e170-40f7-bf9a-ce29ea5fbd3f.JPG)
 
+QnA Maker is a cloud-based Natural Language Processing (NLP) service that allows you to create a natural conversational layer over your data. It is used to find the most appropriate answer for any input from your custom knowledge base (KB) of information. 
 
 Using the QnA maker, A Knowledge base is created with Similar Queries found on the internet. A sample question in the knowledge base is shown in the screenshot below
 
