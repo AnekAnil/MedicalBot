@@ -19,3 +19,10 @@ QnA Maker is a cloud-based Natural Language Processing (NLP) service that allows
 Using the QnA maker, A Knowledge base is created with Similar Queries found on the internet. A sample question in the knowledge base is shown in the screenshot below
 
 ![KNOWLEDGE BASE](https://user-images.githubusercontent.com/64838666/151346906-0d848d33-8b64-4092-8553-8b10d1b73b31.JPG)
+
+
+
+
+
+
+The project can be accessed through this link: https://medicalbot.z30.web.core.windows.net/
