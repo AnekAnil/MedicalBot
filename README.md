@@ -20,6 +20,10 @@ Using the QnA maker, A Knowledge base is created with Similar Queries found on t
 
 ![KNOWLEDGE BASE](https://user-images.githubusercontent.com/64838666/151346906-0d848d33-8b64-4092-8553-8b10d1b73b31.JPG)
 
+The website is hosted using the Azure web storage feature.
+
+![WEB Storage](https://user-images.githubusercontent.com/64838666/151668657-9c916e19-f6f1-4519-90f7-a585e46ce6d7.JPG)
+
 
 
 
