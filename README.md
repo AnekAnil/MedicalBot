@@ -24,9 +24,16 @@ The website is hosted using the Azure web storage feature.
 
 ![WEB Storage](https://user-images.githubusercontent.com/64838666/151668657-9c916e19-f6f1-4519-90f7-a585e46ce6d7.JPG)
 
-
-
-
-
+The project uses several Azure Technologies such as Azure Bot Service, Azure Cognitive Search, QnA Maker and Azure Web Storage. Azure Bot Service, Azure Cognitive Search, QnA Maker are the primary technologies used to create the project and Azure Web Storage was used to host the website.
 
 The project can be accessed through this link: https://medicalbot.z30.web.core.windows.net/
+
+The following pictures shown below show the working of the project.
+
+![Working Proof 1](https://user-images.githubusercontent.com/64838666/151679729-bc9491c2-754e-44a4-9db4-fef5d41ecad7.JPG)
+
+![Working Proof](https://user-images.githubusercontent.com/64838666/151679715-9f25dcf9-0540-48ac-973c-3f9eaa08decc.JPG)
+
+The project can be accessed through this link: https://medicalbot.z30.web.core.windows.net/
+
+
